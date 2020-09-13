@@ -1,0 +1,44 @@
+.layui-footer {
+    text-align: center;
+    font-style: 12px;
+}
+
+.layui-icon {
+    margin-right: 10px;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.layui-body {
+    overflow: hidden;
+}
+
+.userinf {
+    height: 60px;
+    line-height: 60px;
+    padding-left: 30px;
+    
+}
+
+#welcome {
+    font-size: 12px;
+    user-select: none;
+}
+
+.layui-side-scroll .userinf {
+    border-bottom: 1px solid #000;
+}
+
+.text-avatar{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #006688;
+    text-align: center;
+    line-height: 30px;
+    
+}
